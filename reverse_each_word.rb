@@ -11,12 +11,12 @@ end
 
 reverse_each_word("Hello there, and how are you?")
 
-# def reverse_each_word(string) 
-#   words = string.split(" ")
+def reverse_each_word(string) 
+  words = string.split(" ")
   
-#   words.collect do |word|
-#     word.reverse
-#   end  
+  words.collect do |word|
+    word.reverse
+  end  
   
 # end
 
