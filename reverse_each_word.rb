@@ -18,5 +18,5 @@ def reverse_each_word(string)
     word.reverse
   end  
   
-# end
+end
 
